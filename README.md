@@ -8,7 +8,7 @@
 |            | GTI   | DA    |
 |            | EI    | DB    |
 |            | LA 1  | CA/RA |
-|            | AN1   |       |
+|            | ~~AN1~~  |       |
 
 
 
