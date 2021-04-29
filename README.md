@@ -18,6 +18,6 @@
 
 
 [![Donate](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=L4E6PHP4RLC6S&source=url)
-[![Instagram](https://img.shields.io/badge/follow-Instagram-blueviolet.svg&logo=instagram)](https://www.instagram.com/luk_i_gold)
+[![Instagram](https://img.shields.io/badge/follow-Instagram-blueviolet.svg)](https://www.instagram.com/luk_i_gold)
 
 [![Instagram](https://img.shields.io/twitter/url/https/www.instagram.com/luk_i_gold?label=Follow&logo=instagram&?style=plastic&logo=appveyor)](https://www.instagram.com/luk_i_gold)
