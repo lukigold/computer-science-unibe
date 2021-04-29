@@ -1,16 +1,16 @@
 # computer-science-unibe
 [![GitHub All Releases](https://img.shields.io/github/downloads/lukigold/computer-science-unibe/total?color=green)](https://github.com/lukigold/computer-science-unibe/releases) 
-#### exercises and materials used to study computer science at the university of bern.
+#### These are the exercises and materials used to study computer science at the university of bern.
 
 
 
-| Semester   | 1        | 2     |
-| ---------- |----------|-------|
-| Subjects   | P1       | P2    |
-|            | GTI      | DA    |
-|            | EI       | DB    |
-|            | LA 1     | CA/RA |
-|            | ~~AN1~~  |       |
+| Semester   | 1        | 2     | 3     | 4     | 5     | 6     |
+| ---------- |----------|-------|-------|-------|-------|-------|
+| Subjects   | P1       | P2    |       |       |       |       |
+|            | GTI      | DA    |       |       |       |       |
+|            | EI       | DB    |       |       |       |       |
+|            | LA 1     | CA/RA |       |       |       |       |
+|            | ~~AN1~~  |       |       |       |       |       |
 
 
 
