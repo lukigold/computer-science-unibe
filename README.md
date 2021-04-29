@@ -4,8 +4,6 @@
 
 #### These are the exercises and materials used to study computer science at the university of bern.
 
-[![GitHub All Releases](https://img.shields.io/github/downloads/lukigold/computer-science-unibe/total?color=green&logo=docusign)](https://github.com/lukigold/computer-science-unibe/releases) [![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/lukigold/computer-science-unibe?color=yellow&label=Latest%20Release)](https://github.com/lukigold/computer-science-unibe/releases) 
-
 
 | Semester   | 1        | 2     | 3     | 4     | 5     | 6     |
 | ---------- |----------|-------|-------|-------|-------|-------|
