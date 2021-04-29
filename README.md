@@ -3,7 +3,7 @@
 
 #### These are the exercises and materials used to study computer science at the university of bern.
 
-![gif](https://media.giphy.com/media/TIj8cbzWYKnE9ul3ab/giphy.gif)
+![gif](https://media.giphy.com/media/wE25OOxuEG2cnbAAgo/giphy.gif)
 
 
 | Semester   | 1        | 2     | 3     | 4     | 5     | 6     |
