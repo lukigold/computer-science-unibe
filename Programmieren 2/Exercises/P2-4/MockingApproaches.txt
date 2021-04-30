@@ -1,0 +1,12 @@
+Two approaches for mocking:
+
+If you already know how to use mockito it can be very convenient to work with it for testing.
+You don't need an extra class, which may clutter your project if you need a mocking class for every existing class you have (which is very possible if you test properly).
+However, once the class is created, you can easily use it for multiple tests.
+
+On the other hand, the programmer needs to be familiar with mockito to use it properly and has to invest time to read the documentation/learn how the framework works.
+It can also lead to confusion when people, who don't know what mockito is, read your code. The big advantage is that it needs less lines of code and with the @BeforeEach, created mock objects can also be used multiple times.
+
+When implementing the two approaches myself, it took quite some time to understand how exactly mockito works (especially with the handling of void methods).
+Meanwhile, the second approach was pretty easy to implement because i have enough experience on how to create a class/implement interfaces/override methods.
+But i still think that the approach with mockito is better in the long run because once its learned and understood, it can be a very powerful and helpful tool.
