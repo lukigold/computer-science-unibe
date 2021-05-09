@@ -15,13 +15,3 @@
 |            | EI       | DB    |       |       |       |       |
 |            | LA 1     | CA/RA |       |       |       |       |
 |            | ~~AN1~~  |       |       |       |       |       |
-
-
-
-
-
-
-
-
-
-![Bannerd](/IMG/bottom.png)
